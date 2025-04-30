@@ -19,7 +19,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-      <img src="assets/images/printScreen-1.png" alt="Imagem da pagina demonstrando como ela e" width="400px">
+      <img src="assets/images/printScreen-1.png" alt="Imagem da pagina demonstrando como ela e" width="600px">
       <img src="assets/images/printScreen-2.png" alt="Imagem da pagina demonstrando como ela e" width="400px">
 </p>
 
